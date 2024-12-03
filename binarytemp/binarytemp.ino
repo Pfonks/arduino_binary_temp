@@ -50,7 +50,6 @@ void loop() {
   // put your main code here, to run repeatedly:
   if(dht.getData()) {
     float temp = dht.getTemperature();
-    temp = 21.5;
     int whole = temp;
     int dec = (temp-whole) * 10;
     setLights(whole, dec);
