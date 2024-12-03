@@ -5,4 +5,4 @@
 The leftmost LED is used to denote negative temperatures, the rightmost LED lights depending on the decimal places.
 The six LEDs in the middle show the binary representation of the current temperature stripped of sign and decimal places.
 
-![Picture of a breadboard setup with 8 LEDs as one bit for negative numbers, one bit for decimal places > 0.4 and 6 bits for the current temperature](https://cloud.pfonks.com/apps/files_sharing/publicpreview/9sB73ARKfRyRedA?file=/&fileId=3457693&x=1920&y=1080&a=true&etag=fce3d542c4e85458cc3c1f8c1e5f13cd)
+![Picture of a breadboard setup with 8 LEDs as one bit for negative numbers, one bit for decimal places > 0.4 and 6 bits for the current temperature](https://github.com/Pfonks/binarytemp/blob/58c3b7f575c8f8e5c4b9fd28cb4cfb79ad119ae1/binarytemp.jpg)
